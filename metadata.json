@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of AuditFlow AI - Extrato Inteligente",
+  "description": "Uma ferramenta avançada de auditoria de extratos bancários que utiliza IA para extrair, categorizar e totalizar entradas e saídas com precisão cirúrgica.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
